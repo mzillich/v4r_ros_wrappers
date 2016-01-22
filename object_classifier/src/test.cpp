@@ -2,12 +2,12 @@
  * main.cpp
  *
  *  Created on: Feb 20, 2014
- *      Author: Thomas Fäulhammer
+ *      Author: Thomas Faeulhammer
  */
 
 #include <pcl/common/common.h>
 #include <pcl/visualization/pcl_visualizer.h>
-#include <pcl_conversions.h>
+#include <pcl_conversions/pcl_conversions.h>
 #include "ros/ros.h"
 #include "sensor_msgs/PointCloud2.h"
 #include "std_msgs/String.h"
