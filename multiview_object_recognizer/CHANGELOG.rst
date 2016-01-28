@@ -2,6 +2,30 @@
 Changelog for package multiview_object_recognizer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2016-01-28)
+------------------
+
+0.1.1 (2016-01-28)
+------------------
+
+0.1.0 (2016-01-27)
+------------------
+* added possibility to write intermediate images to a file
+* Merge branch 'master' into dynamic_object_learning
+  Conflicts:
+  multiview_object_recognizer/CMakeLists.txt
+  singleview_object_recognizer/CMakeLists.txt
+* updated cmake for new v4r cmake system
+* tmp
+* Contributors: Thomas Fäulhammer
+
+0.0.12 (2016-01-27)
+-------------------
+* add c++11 definition
+* use new parameter parsing option inside V4R library
+* add OpenCV libs to multi-view cmake file
+* Contributors: Thomas Fäulhammer
+
 0.0.11 (2016-01-11)
 -------------------
 * updated readme and launch files

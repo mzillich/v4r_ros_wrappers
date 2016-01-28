@@ -2,6 +2,23 @@
 Changelog for package object_tracker
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2016-01-28)
+------------------
+
+0.1.1 (2016-01-28)
+------------------
+
+0.1.0 (2016-01-27)
+------------------
+* add incremental object learning
+* Contributors: Thomas Fäulhammer
+
+0.0.12 (2016-01-27)
+-------------------
+* add c++11 definition
+* remove c++11 definition
+* Contributors: Thomas Fäulhammer
+
 0.0.11 (2016-01-11)
 -------------------
 * use old pcl grabber to be conform with PCL version 1.7

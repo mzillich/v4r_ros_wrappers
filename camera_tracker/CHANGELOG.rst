@@ -2,6 +2,24 @@
 Changelog for package camera_tracker
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2016-01-28)
+------------------
+
+0.1.1 (2016-01-28)
+------------------
+
+0.1.0 (2016-01-27)
+------------------
+* added possibility to write intermediate images to a file
+* up ns
+* tmp
+* Contributors: Thomas Faeulhammer, Thomas Fäulhammer, werner-left-cortex
+
+0.0.12 (2016-01-27)
+-------------------
+* add c++11 definition
+* Contributors: Thomas Fäulhammer
+
 0.0.11 (2016-01-11)
 -------------------
 * added object tracker
